@@ -1,4 +1,4 @@
-# Laravel Website about Sony Playstation.
+# Laravel website about Sony Playstation.
 
 1. When you download this project: In the project directory
 run CMD command: composer update (composer must be installed globally on your windows machine before command "composer update" would work).

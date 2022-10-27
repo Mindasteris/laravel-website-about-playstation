@@ -1,1 +1,1 @@
-# Laravel website about Sony Playstation consoles.
+# Laravel website about Sony Playstation computers

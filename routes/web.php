@@ -1,6 +1,5 @@
 <?php
 
-use App\Http\Controllers\ContactUsController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
@@ -14,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-// Menu Links - Main Page
+// Menu Links
 Route::get('/', function () {
     return view('welcome');
 });
@@ -23,21 +22,23 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-// Hardware Page
 Route::get('/hardware', function () {
     return view('hardware');
 });
 
-// History Page
 Route::get('/history', function () {
     return view('history');
 });
 
-// Contact Page
-Route::get('/contact', [ContactUsController::class, 'contactFormView']);
-Route::post('/contact', [ContactUsController::class, 'contactFormLogic']);
+Route::get('/news', function () {
+    return view('news');
+});
 
-// Gallery for Consoles - Pages
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+// Gallery for Consoles - Hardware Page
 Route::get('/hardware/gallery/playstation1', function () {
     return view('gallery.ps1-gallery');
 });

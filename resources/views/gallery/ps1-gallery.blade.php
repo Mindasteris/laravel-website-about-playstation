@@ -6,35 +6,35 @@
     <ul class="image-gallery">
         <li>
             <img src="https://source.unsplash.com/b-bnM85Z35o/640x416" alt="" />
-            <div class="overlay"><span>Playstation</span></div>
+            <div class="overlay"><span>Image title</span></div>
         </li>
         <li>
             <img src="https://source.unsplash.com/RJTE-wHkzWI/640x416" alt="" />
-            <div class="overlay"><span>Playstation</span></div>
+            <div class="overlay"><span>Image title</span></div>
         </li>
         <li>
             <img src="https://source.unsplash.com/E6vUIpw7OtA/640x416" alt="" />
-            <div class="overlay"><span>Playstation</span></div>
+            <div class="overlay"><span>Image title</span></div>
         </li>
         <li>
             <img src="https://source.unsplash.com/JmUl_t_v3dw/640x416" alt="" />
-            <div class="overlay"><span>Playstation</span></div>
+            <div class="overlay"><span>Image title</span></div>
         </li>
         <li>
             <img src="https://source.unsplash.com/lKjHvySvwSk/640x416" alt="" />
-            <div class="overlay"><span>Playstation</span></div>
+            <div class="overlay"><span>Image title</span></div>
         </li>
         <li>
             <img src="https://source.unsplash.com/e1QAt2w06uY/640x416" alt="" />
-            <div class="overlay"><span>Playstation</span></div>
+            <div class="overlay"><span>Image title</span></div>
         </li>
         <li>
             <img src="https://source.unsplash.com/uL2GG5sODuM/640x416" alt="" />
-            <div class="overlay"><span>Playstation</span></div>
+            <div class="overlay"><span>Image title</span></div>
         </li>
         <li>
             <img src="https://source.unsplash.com/b-bnM85Z35o/640x416" alt="" />
-            <div class="overlay"><span>Playstation</span></div>
+            <div class="overlay"><span>Image title</span></div>
         </li>
     </ul>
 

@@ -1,7 +1,9 @@
 @extends('layouts.master')
 
+@section('title', 'Login - Playstation')
+
 @section('content')
-<div class="container">
+<div class="container login-page">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
